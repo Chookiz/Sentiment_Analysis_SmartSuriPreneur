@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+malaya
+pandas
+re
+fasttext
+numpy
+logging
+os
+scipy.spatial.distance
+nltk
+joblib
+deep-translator
+sqlalchemy 
+mysql
